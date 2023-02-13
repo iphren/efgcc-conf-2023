@@ -1,7 +1,9 @@
-罗俊辉 Daniel Leo
+# 罗俊辉 Daniel Leo
 
+## 简介
 资深的敬拜赞美乐团导师
 
+## 嘉宾介绍
 在教会带领敬拜服事，以及音乐教学培训长达近30年。
 Daniel 老师精通钢琴、电子琴、吉他、贝斯、鼓等乐器，
 并持有 Yamaha，Rock School，LCM 及 Trinity 专业音乐文凭，

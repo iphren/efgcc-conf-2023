@@ -1,7 +1,9 @@
-Rev. Paul Hudson
+# Rev. Paul Hudson
 
+## 简介
 UK Elim Pentecostal Church Regional Superintendent for the Midlands and North East
 
+## 嘉宾介绍
 Paul Hudson has served as Church Pastor for 21 years in 2 churches;
 ministering within different cultures globally since the year 2000;
 Elim International Missions Director for 5 years;
