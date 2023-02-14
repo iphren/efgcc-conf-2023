@@ -12,15 +12,15 @@ Barking Elim Church
 Barking IG11 7LZ  
 
 ## 嘉宾
-- [Aaron 牧师](speakers/aaron_chan/)
-- [Anna 牧师](speakers/anna_chan/)
+- [Paul Hudson](speakers/paul_hudson/)
+- [Miriam 师母](speakers/miriam_domes/)
 - [Daniel 老师](speakers/daniel_leo/)
 - [朱绍恩牧师](speakers/david_chu/)
-- [Miriam 师母](speakers/miriam_domes/)
-- [Paul Hudson](speakers/paul_hudson/)
 - [朱植森牧师](speakers/peter_chu/)
-- [Raymond](speakers/raymond_wang/)
 - [成世光牧师](speakers/shiguang_cheng/)
+- [Raymond](speakers/raymond_wang/)
+- [Anna 牧师](speakers/anna_chan/)
+- [Aaron 牧师](speakers/aaron_chan/)
 
 ## 内容
 
