@@ -13,7 +13,39 @@ Barking Elim Church
 93 Axe Street  
 Barking IG11 7LZ  
 
+### **附近停车位**
+
+#### _Axe Street Service Road Car Park_（8个停车位）
+#### _Bobby Moore Way Car Park_（36个停车位）
+- 周一至周日 0:00-24:00  
+  - 最长停留时间4小时  
+    |  时长  |  价格  |
+    |--------|--------|
+    | 30分钟 | £0.20  | 
+    | 1小时  | £1.80  | 
+    | 2小时  | £5.60  | 
+    | 4小时  | £11.20 | 
+
+#### _St Paul's Road_
+#### _27 Ripple Road_
+#### _46 Ripple Road_
+#### _Clockhouse Avenue_
+#### _Broadway_
+- 周一至周日 6:00-21:00  
+  - 最长停留时间4小时  
+    |  时长  |  价格  |
+    |--------|--------|
+    | 30分钟 | £0.20  | 
+    | 1小时  | £2.80  | 
+    | 2小时  | £6.60  | 
+    | 4小时  | £13.20 | 
+    |公共假期|  免费  | 
+- 其它时段没有限制，停车免费
+
+#### __
+
 ### **附近地铁站**
+
 #### Barking Station (5分钟步行距离)
 - London Overground
 - District
