@@ -11,6 +11,14 @@ Barking Elim Church
 93 Axe Street  
 Barking IG11 7LZ  
 
+[谷歌地图](https://goo.gl/maps/PiYG1uYFuWBrxpc59)
+
+### **附近地铁站**
+#### Barking Station (5分钟步行距离)
+- London Overground
+- District
+- Hammersmith & City
+
 ## 嘉宾
 - [Paul Hudson 牧师](speakers/paul_hudson/)
 - [Miriam 师母](speakers/miriam_domes/)
