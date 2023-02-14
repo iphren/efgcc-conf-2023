@@ -48,7 +48,7 @@ Barking IG11 7LZ
 
 德国成世光牧师：
 - 大道至简，殊途同归：  
-  “回到当时，来到当下” 的读经法之益处、要诀与具体操作  
+  “回到当时，来到当下”的读经法之益处、要诀与具体操作  
   Back to Bygone Ages and Come to Current Hour
 
 ### 敬拜
