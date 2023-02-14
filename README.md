@@ -8,7 +8,7 @@
 
 ### **EFGCC Barking**
 
-[谷歌地图](https://goo.gl/maps/PiYG1uYFuWBrxpc59)  
+<a href="https://goo.gl/maps/PiYG1uYFuWBrxpc59" target="_blank">谷歌地图</a>  
 Barking Elim Church  
 93 Axe Street  
 Barking IG11 7LZ  
