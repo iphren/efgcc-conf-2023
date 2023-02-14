@@ -12,7 +12,7 @@ Barking Elim Church
 Barking IG11 7LZ  
 
 ## 嘉宾
-- [Paul Hudson](speakers/paul_hudson/)
+- [Paul Hudson 牧师](speakers/paul_hudson/)
 - [Miriam 师母](speakers/miriam_domes/)
 - [Daniel 老师](speakers/daniel_leo/)
 - [朱绍恩牧师](speakers/david_chu/)
