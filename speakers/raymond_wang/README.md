@@ -1,4 +1,4 @@
-# 王玉 Raymond Wang
+# 王玉传道 Raymond Wang
 
 ## 简介
 英国以琳全被福音教会敬拜队领袖

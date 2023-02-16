@@ -1,4 +1,15 @@
-# 2023年 EFGCC 特会：恢复 —— 圣灵恩赐与关系
+# 2023年 EFGCC 特会：恢复
+
+## 主题
+恢复：圣灵恩赐 关系 话语 敬拜
+
+## 报名
+
+|      |     |
+|------|-----|
+|负责人|黄洁梅|
+|报名链接|[Link]()|
+|费用|£60（包含3天午餐 + 晚餐）|
 
 ## 时间
 
@@ -56,7 +67,7 @@ _Broadway,_
 - [朱绍恩牧师](speakers/david_chu/)
 - [朱植森牧师](speakers/peter_chu/)
 - [成世光牧师](speakers/shiguang_cheng/)
-- [Raymond](speakers/raymond_wang/)
+- [Raymond 传道](speakers/raymond_wang/)
 - [Anna 牧师](speakers/anna_chan/)
 - [Aaron 牧师](speakers/aaron_chan/)
 
