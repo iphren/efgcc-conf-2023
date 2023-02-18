@@ -1,5 +1,7 @@
 # 2023年 EFGCC 特会：恢复
 
+[节目表](resources/2023_london_conference_programme.docx)
+
 ## 主题
 恢复：圣灵恩赐 关系 话语 敬拜
 
