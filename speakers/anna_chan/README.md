@@ -12,5 +12,9 @@
 现致力于圣经教导工作，希望培训和鼓励华人基督徒对圣经有更深度的认识，看见“铁磨铁，磨出刃来”。
 
 [//]: # (photos)
-![anna_chan_1](anna_chan_1.jpeg)
-![anna_chan_2](anna_chan_2.jpeg)
+![anna_chan_1](anna_chan_1.jpg)
+![anna_chan_2](anna_chan_2.jpg)
+![anna_chan_3](anna_chan_3.jpg)
+![anna_chan_4](anna_chan_4.jpg)
+![anna_chan_5](anna_chan_5.jpg)
+![anna_chan_6](anna_chan_6.jpg)
