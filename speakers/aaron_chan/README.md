@@ -12,3 +12,5 @@
 
 [//]: # (photos)
 ![aaron_chan_1](aaron_chan_1.jpeg)
+![aaron_chan_2](aaron_chan_2.jpeg)
+![aaron_chan_3](aaron_chan_3.jpeg)
